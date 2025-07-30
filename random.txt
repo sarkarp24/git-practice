@@ -1,2 +1,3 @@
 this is random text
 second line added
+3rd line was added to simulate git pull scenario.
