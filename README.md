@@ -7,3 +7,4 @@ This is change for CH# 54321.
 This is hot fix for CH# 9876 #branch feature2
 This is hot fix for CH# 9944 #branch feature3.
 This was edited by someone else (fetch scenario).
+This is practising git fetch.
